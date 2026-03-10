@@ -1,0 +1,20 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\Monowar\\Downloads\\OS project\\Part C WIN32 Mouse Tracker\\Mouse Tracker .c++",
+    "cmake.additionalCompilerSearchDirs": [
+        "C:/msys64/mingw32/bin",
+        "C:/msys64/mingw64/bin",
+        "C:/msys64/clang32/bin",
+        "C:/msys64/clang64/bin",
+        "C:/msys64/clangarm64/bin",
+        "C:/msys64/ucrt64/bin"
+    ],
+    "redhat.telemetry.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "php.validate.executablePath": "",
+    "php.debug.executablePath": "",
+    "files.autoSave": "afterDelay"
+}
